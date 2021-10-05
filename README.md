@@ -1,4 +1,4 @@
-#First-timers
+# First-timers
 
 A beginner friendly repository to start your journey in open source.
 
@@ -12,4 +12,4 @@ Steps to be followed to contribute :
 6. Push your code.
 7. Open a pull request and wait for your pull request to get accepted.
 
-#Thank you😇
+# Thank you😇
